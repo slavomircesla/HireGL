@@ -1,0 +1,53 @@
+body{
+	width: 100%;
+	margin-top: 20px;
+}
+
+
+
+#Color{
+ background-color: green;
+ text-align: center;
+ border: 1px solid grey;
+
+}
+
+
+#BtnOk{
+
+border: 1px solid grey;
+}
+
+
+#Message{
+	color: red;
+	margin-right: 50px;
+}
+
+
+#text {
+	border:none;
+	border-bottom: 2px solid green;
+	width: 100%;
+}
+
+#pw {
+	border:none;
+	border-bottom: 2px solid green;
+	width: 100%;
+}
+
+#Login
+{
+	border: none;
+	border-bottom: 2px solid blue;
+	width: 100%
+}
+
+#Color
+{
+	margin-top: 150px;
+	
+
+}
+
